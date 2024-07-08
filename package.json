@@ -1,0 +1,28 @@
+{
+  "name": "number-game",
+  "version": "1.0.0",
+  "author": "Adam Nyx <NyxAdam@protonmail.com> (https://www.linkedin.com/in/a-nyx/)",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "eslintConfig": {
+    "extends": "next/core-web-vitals"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.10.0",
+    "next": "12.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.4"
+  }
+}
